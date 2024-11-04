@@ -84,7 +84,7 @@ module.exports = {
   KOYEB_API : process.env.KOYEB_API  || "false",
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "yepeTQaFk7r9ymusihgXYvdN",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
@@ -101,7 +101,7 @@ module.exports = {
 
 
 global.ELEVENLAB_API_KEY = process.env.ELEVENLAB_API_KEY || "sk_d1c762631a583437b5ba64c3c550eb1baac21d3232794a9a";
-global.aitts_Voice_Id = process.env.AITTS_ID|| "37";
+global.aitts_Voice_Id = process.env.AITTS_ID|| "32";
 
 
 
